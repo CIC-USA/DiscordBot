@@ -158,3 +158,4 @@ Make sure you also have your Google server API key, which is located in the "you
 Please check the GitHub issues page on this project. We get a lot of similar questions, and it is likely that yours has already been answered. 
 
 If you still need help, feel free to join us on [Discord](https://discord.gg/m29GJBN).
+[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)
